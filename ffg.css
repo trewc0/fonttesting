@@ -1,0 +1,15 @@
+
+@font-face {
+  font-family: 'ffgb';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://raw.githubusercontent.com/trewc0/fonttesting/blob/main/ffgb.ttf) format('truetype');
+}
+
+
+@font-face {
+  font-family: 'ffgl';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://raw.githubusercontent.com/trewc0/fonttesting/blob/main/ffgl.ttf) format('truetype');
+}
