@@ -3,7 +3,7 @@
   font-family: 'ffgb';
   font-style: normal;
   font-weight: 400;
-  src: url(https://github.com/trewc0/fonttesting/blob/main/ffgb.ttf?raw=true) format('truetype');
+  src: url(https://raw.githubusercontent.com/trewc0/fonttesting/main/ffgb.ttf) format('truetype');
 }
 
 
@@ -11,5 +11,5 @@
   font-family: 'ffgl';
   font-style: normal;
   font-weight: 400;
-  src: url(https://raw.githubusercontent.com/trewc0/fonttesting/blob/main/ffgl.ttf) format('truetype');
+  src: url(https://raw.githubusercontent.com/trewc0/fonttesting/main/ffgl.ttf) format('truetype');
 }
